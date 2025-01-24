@@ -5,5 +5,14 @@
 This is a screenshot of the final step I completed! 
 
 <h2>Description</h2>
-This was probably one of the easiest labs that we have done so far. We first analyzed WiFi traffic through Wireshark. We used aircrack-ng command to crack both WEP and WPA2 networks.
+This was probably one of the easiest labs that I have done so far for the CEH. I first analyzed WiFi traffic through Wireshark. Then used aircrack-ng command to crack both WEP and WPA2 networks.
 <br />
+
+
+<h2>The setup for this lab encompassed the following:</h2>
+This was fully a virtual envrionemnt
+
+- <b>2 Windows OS systems</b>
+- <b>2 Windows servers</b>
+- <b>2 Linux OS systems</b>
+- <b>1 Firewall</b>
