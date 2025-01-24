@@ -1,4 +1,4 @@
-<h1>CEH Lab 16</h1>
+<h1>Hacking Wireless Networks - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH_Lab-16/blob/e244ea3ef61ca7d147df5574e8d6662dca146925/Lab16-1.png)
